@@ -1,5 +1,7 @@
 # 2Ue-ITL12: PHP Grundlagen - Server Einstellungen
 
+**Name:** Basty Asumadu - **Übungstag:** 15.11.2024 - **Klasse:** 3aAPC - **Gruppe:** A - **Lehrgang:** 2
+
 ## Die Ausgabe bei der Aufgabe1.php
 ![Bild1](https://github.com/user-attachments/assets/70661839-657b-43b1-9a51-02141a25d55d)
 
